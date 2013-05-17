@@ -1,4 +1,4 @@
 box: wercker/python
 build:
-	steps:
-		- pip-install
+  steps:
+    - pip-install
