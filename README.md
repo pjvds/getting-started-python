@@ -1,7 +1,7 @@
 getting-started-python
 ======================
 
-Python sample application for wercker leveraging the Flask
+Python sample application for [wercker](http://wercker.com) leveraging the Flask
 microframework
 
 [![Wercker
